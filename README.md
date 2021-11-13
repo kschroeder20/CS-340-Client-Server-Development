@@ -47,3 +47,7 @@ I used Jupyter Notebook as my IDE for this project because it interprets python 
 
 ## Challenges
 My biggest challenge was learning how to debug in Jupyter Notebook. I am used to programming in systems that have easily-accessible error logs that document anything that would prevent the system from running. Jupter Notebook has that functionality, but it took me a while to find it. My code would run, but filters wouldn’t work because of a bug that was unrelated to the filters. The SNHU-provided way to see error logs didn’t work for me for some reason. I searched on Google and found out that I could access the logs through Jupyter Lab. Once I was able to track down the error logs, I was able to move much faster in the development process.
+
+## CRUD API
+To view more infomration about the CRUD API used in this project, please download the [project README](https://github.com/kschroeder20/CS-340-Client-Server-Development/files/7532847/Animals.CRUD.Module.README.1.docx)
+
